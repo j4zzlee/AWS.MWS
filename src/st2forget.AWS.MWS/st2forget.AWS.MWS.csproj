@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.Core" Version="3.3.24.2" />
+    <PackageReference Include="Claytondus.AmazonMWS.Feeds" Version="0.3.0" />
+    <PackageReference Include="Claytondus.AmazonMWS.Products" Version="0.3.0" />
+  </ItemGroup>
+
+</Project>
